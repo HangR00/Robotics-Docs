@@ -4,13 +4,14 @@ Paper List
 ##########
 Locomotion
 ##########
-- Paper Title:
+Paper Title:
 Author List
-'paper<https://arxiv.org>'_
+`[paper]<https://arxiv.org>`_
 
-- Paper Title:
+Paper Title:
 Author List
-'paper<https://arxiv.org>'_
+`[paper]<https://arxiv.org>`_
+
 ##########
 Manipulation
 ##########
