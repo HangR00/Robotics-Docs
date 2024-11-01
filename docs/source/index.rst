@@ -1,7 +1,7 @@
 Hi, Robotics!
 ===================================
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frobotics-docs.readthedocs.io%2Fen%2Flatest%2Findex.html&count_bg=%23413DC8&title_bg=%233EE659&icon=&icon_color=%23E5DBDB&title=visitors&edge_flat=false"/></a>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xXqOxtQo9AhDbR6_RCleMJi5CoHA3eY7dmp4uaImzE8"></script>
 
 This is the documentation for Robotics related technical notebook.
 
