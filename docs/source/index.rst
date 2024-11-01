@@ -21,15 +21,27 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: math:
 
-   introduction
-   robotics
-   algorithms
-   community
-   industry
-   conferences
-   papers
-   about
+.. toctree::
+   :maxdepth: 2
+   :caption: control:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: perception:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: learning:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: industry:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: paper:
 
 .. toctree::
 
