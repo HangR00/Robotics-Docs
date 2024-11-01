@@ -1,8 +1,6 @@
 Hi, Robotics!
 ===================================
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xXqOxtQo9AhDbR6_RCleMJi5CoHA3eY7dmp4uaImzE8"></script>
-
 This is the documentation for Robotics related technical notebook.
 
 The purpose of this project is to share various aspects related to robotics, including theoretical knowledge, algorithms, robotics community, robotics industry, robotics conferences, and the latest papers in the direction of robotics, and so on.
