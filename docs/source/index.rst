@@ -23,6 +23,8 @@ Contents
    :maxdepth: 2
    :caption: math:
 
+   sections/math/linear_algebra.rst
+
 .. toctree::
    :maxdepth: 2
    :caption: control:
