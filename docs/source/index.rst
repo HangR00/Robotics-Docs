@@ -20,6 +20,18 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+
+   introduction
+   robotics
+   algorithms
+   community
+   industry
+   conferences
+   papers
+   about
+
+.. toctree::
 
    usage
    api
