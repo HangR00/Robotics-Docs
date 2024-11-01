@@ -1,6 +1,8 @@
 Hi, Robotics!
 ===================================
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frobotics-docs.readthedocs.io%2Fen%2Flatest%2Findex.html&count_bg=%23413DC8&title_bg=%233EE659&icon=&icon_color=%23E5DBDB&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 This is the documentation for Robotics related technical notebook.
 
 The purpose of this project is to share various aspects related to robotics, including theoretical knowledge, algorithms, robotics community, robotics industry, robotics conferences, and the latest papers in the direction of robotics, and so on.
