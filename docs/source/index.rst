@@ -45,7 +45,3 @@ Contents
    :maxdepth: 2
    :caption: paper:
 
-.. toctree::
-
-   usage
-   api
