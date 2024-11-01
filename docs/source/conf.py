@@ -7,7 +7,7 @@ copyright = '2024, Jiahang Zhang'
 author = 'Jiahang Zhang'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.0.1'
 import sphinx_rtd_theme
 # -- General configuration
 
