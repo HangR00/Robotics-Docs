@@ -29,19 +29,30 @@ Contents
    :maxdepth: 2
    :caption: control:
 
+   sections/math/model_predictive_control.rst
+   sections/math/linear_quadratic_regulator.rst
+
 .. toctree::
    :maxdepth: 2
    :caption: perception:
+
+   sections/math/camera.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: learning:
 
+   sections/math/deep_learning.rst
+   sections/math/reinforcement_learning.rst
+
 .. toctree::
    :maxdepth: 2
    :caption: industry:
+
+   sections/math/robot_industry.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: paper:
 
+   sections/math/paper_list.rst
