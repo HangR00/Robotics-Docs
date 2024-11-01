@@ -1,9 +1,14 @@
 Paper List
 ================
 
-# Locomotion
+##########
+Locomotion
+##########
 
-# Manipulation
+##########
+Manipulation
+##########
 
-# Perception and Decesion Making
-
+##########
+Perception and Decesion Making
+##########
