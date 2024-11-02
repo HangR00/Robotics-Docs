@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Robotics Docs
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This project aims to record the robotics related knowledge
 
-Read the tutorial here:
+Click this link:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://robotics-docs.readthedocs.io/en/latest/index.html
