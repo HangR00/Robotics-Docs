@@ -47,6 +47,12 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: robots:
+
+   sections/robots/legged_robot.rst
+
+.. toctree::
+   :maxdepth: 2
    :caption: industry:
 
    sections/industry/robot_industry.rst
