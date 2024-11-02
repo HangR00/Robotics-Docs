@@ -9,7 +9,7 @@ Locomotion
 2024
 **********
 
-| Paper Title: DTC: Deep Tracking Control
+| DTC: Deep Tracking Control
 | Fabian Jenelten, Junzhe He, Farbod Farshidian, Marco Hutter
 | `[paper] <https://www.science.org/doi/10.1126/scirobotics.adh5401>`_
 
