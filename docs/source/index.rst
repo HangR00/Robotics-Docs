@@ -27,6 +27,12 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: basic:
+
+   sections/basic/chapter1.rst
+
+.. toctree::
+   :maxdepth: 2
    :caption: control:
 
    sections/control/model_predictive_control.rst
